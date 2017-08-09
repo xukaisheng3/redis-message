@@ -1,0 +1,120 @@
+2017-08-09 17:05:26,424,Starting JunitTest on 2013-20141021RF with PID 292916 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:05:26,425,The following profiles are active: test
+2017-08-09 17:05:26,448,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6187d1f5: startup date [Wed Aug 09 17:05:26 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:05:27,259,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:05:28,330,Starting beans in phase 2147483647
+2017-08-09 17:05:28,748,Started JunitTest in 4.084 seconds (JVM running for 6.786)
+2017-08-09 17:05:28,874,Sending message...
+2017-08-09 17:05:28,918,receiver message <Hello from Redis! >
+2017-08-09 17:05:28,920,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6187d1f5: startup date [Wed Aug 09 17:05:26 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:05:28,936,Stopping beans in phase 2147483647
+2017-08-09 17:14:55,849,Starting JunitTest on 2013-20141021RF with PID 310692 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:14:55,861,The following profiles are active: test
+2017-08-09 17:14:55,892,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6187d1f5: startup date [Wed Aug 09 17:14:55 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:14:56,653,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:14:57,580,Starting beans in phase 2147483647
+2017-08-09 17:14:57,782,Started JunitTest in 3.162 seconds (JVM running for 5.112)
+2017-08-09 17:14:57,979,input message...
+2017-08-09 17:16:01,625,Starting JunitTest on 2013-20141021RF with PID 293856 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:16:01,626,The following profiles are active: test
+2017-08-09 17:16:01,645,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6187d1f5: startup date [Wed Aug 09 17:16:01 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:16:01,979,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:16:02,481,Starting beans in phase 2147483647
+2017-08-09 17:16:02,672,Started JunitTest in 1.563 seconds (JVM running for 2.425)
+2017-08-09 17:16:09,743,Starting JunitTest on 2013-20141021RF with PID 306700 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:16:09,745,The following profiles are active: test
+2017-08-09 17:16:09,763,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5674e1f2: startup date [Wed Aug 09 17:16:09 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:16:10,062,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:16:10,571,Starting beans in phase 2147483647
+2017-08-09 17:16:10,652,Started JunitTest in 1.505 seconds (JVM running for 2.295)
+2017-08-09 17:16:25,532,input message...
+2017-08-09 17:16:27,286,Starting JunitTest on 2013-20141021RF with PID 308040 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:16:27,287,The following profiles are active: test
+2017-08-09 17:16:27,307,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5674e1f2: startup date [Wed Aug 09 17:16:27 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:16:27,712,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:16:28,554,Starting beans in phase 2147483647
+2017-08-09 17:16:28,823,Started JunitTest in 1.949 seconds (JVM running for 3.254)
+2017-08-09 17:16:28,877,input message...
+2017-08-09 17:16:29,372,Starting JunitTest on 2013-20141021RF with PID 301004 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:16:29,373,The following profiles are active: test
+2017-08-09 17:16:29,397,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5674e1f2: startup date [Wed Aug 09 17:16:29 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:16:29,836,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:16:30,661,Starting beans in phase 2147483647
+2017-08-09 17:16:31,069,Started JunitTest in 2.173 seconds (JVM running for 3.29)
+2017-08-09 17:16:31,137,input message...
+2017-08-09 17:16:31,620,Starting JunitTest on 2013-20141021RF with PID 311152 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:16:31,621,The following profiles are active: test
+2017-08-09 17:16:31,639,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5674e1f2: startup date [Wed Aug 09 17:16:31 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:16:32,040,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:16:32,532,Starting beans in phase 2147483647
+2017-08-09 17:16:32,630,Started JunitTest in 1.555 seconds (JVM running for 2.806)
+2017-08-09 17:16:32,658,input message...
+2017-08-09 17:18:04,048,input message...
+2017-08-09 17:18:14,880,Starting JunitTest on 2013-20141021RF with PID 312104 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:18:14,881,The following profiles are active: test
+2017-08-09 17:18:14,894,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@157853da: startup date [Wed Aug 09 17:18:14 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:18:15,142,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:18:15,525,Starting beans in phase 2147483647
+2017-08-09 17:18:15,601,Started JunitTest in 1.065 seconds (JVM running for 2.072)
+2017-08-09 17:18:15,626,input message...
+2017-08-09 17:18:46,192,Starting JunitTest on 2013-20141021RF with PID 309236 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:18:46,193,The following profiles are active: test
+2017-08-09 17:18:46,221,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6187d1f5: startup date [Wed Aug 09 17:18:46 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:18:46,489,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:18:46,984,Starting beans in phase 2147483647
+2017-08-09 17:18:47,059,Started JunitTest in 1.42 seconds (JVM running for 2.109)
+2017-08-09 17:18:47,089,input message...
+2017-08-09 17:24:38,902,Starting JunitTest on 2013-20141021RF with PID 312012 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:24:38,904,The following profiles are active: test
+2017-08-09 17:24:38,930,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:24:38 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:24:39,268,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:24:39,762,Starting beans in phase 2147483647
+2017-08-09 17:24:39,838,Started JunitTest in 1.444 seconds (JVM running for 2.091)
+2017-08-09 17:24:39,933,receiver server message <广播方式 >
+2017-08-09 17:24:39,934,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:24:38 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:24:39,950,Stopping beans in phase 2147483647
+2017-08-09 17:35:14,174,Starting JunitTest on 2013-20141021RF with PID 310408 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:35:14,175,The following profiles are active: test
+2017-08-09 17:35:14,203,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:35:14 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:35:14,492,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:35:15,063,Starting beans in phase 2147483647
+2017-08-09 17:35:15,159,Started JunitTest in 1.578 seconds (JVM running for 2.27)
+2017-08-09 17:35:15,221,receiver server message <广播方式 >
+2017-08-09 17:35:15,222,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:35:14 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:35:15,225,Stopping beans in phase 2147483647
+2017-08-09 17:36:58,337,Starting JunitTest on 2013-20141021RF with PID 294712 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:36:58,339,The following profiles are active: test
+2017-08-09 17:36:58,361,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@f2ff811: startup date [Wed Aug 09 17:36:58 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:36:58,734,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:36:59,167,Starting beans in phase 2147483647
+2017-08-09 17:36:59,235,Started JunitTest in 1.359 seconds (JVM running for 1.99)
+2017-08-09 17:36:59,283,receiver server message <广播方式 >
+2017-08-09 17:36:59,285,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@f2ff811: startup date [Wed Aug 09 17:36:58 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:36:59,286,Stopping beans in phase 2147483647
+2017-08-09 17:48:35,675,Starting JunitTest on 2013-20141021RF with PID 294124 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:48:35,713,The following profiles are active: test
+2017-08-09 17:48:35,739,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:48:35 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:48:36,071,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:48:36,556,Starting beans in phase 2147483647
+2017-08-09 17:48:36,654,Started JunitTest in 1.457 seconds (JVM running for 2.196)
+2017-08-09 17:48:36,694,receiver server message <广播方式 >
+2017-08-09 17:48:36,695,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:48:35 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:48:36,696,Stopping beans in phase 2147483647
+2017-08-09 17:49:32,943,Starting JunitTest on 2013-20141021RF with PID 311380 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:49:32,944,The following profiles are active: test
+2017-08-09 17:49:32,970,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@f2ff811: startup date [Wed Aug 09 17:49:32 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:49:33,366,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:49:33,748,Starting beans in phase 2147483647
+2017-08-09 17:49:33,780,Started JunitTest in 1.361 seconds (JVM running for 1.947)
+2017-08-09 17:49:33,855,receiver server message <广播方式 >
+2017-08-09 17:49:33,856,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@f2ff811: startup date [Wed Aug 09 17:49:32 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:49:33,858,Stopping beans in phase 2147483647
+2017-08-09 17:50:12,678,Starting JunitTest on 2013-20141021RF with PID 311660 (started by Administrator in E:\Intelij\workspace\XksRedisMessage\MessageServer)
+2017-08-09 17:50:12,679,The following profiles are active: test
+2017-08-09 17:50:12,722,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:50:12 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:50:13,270,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:50:13,735,Starting beans in phase 2147483647
+2017-08-09 17:50:13,813,Started JunitTest in 1.611 seconds (JVM running for 2.334)
+2017-08-09 17:50:13,853,receiver server message <广播方式 >
+2017-08-09 17:50:13,854,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@512535ff: startup date [Wed Aug 09 17:50:12 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:50:13,855,Stopping beans in phase 2147483647

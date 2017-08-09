@@ -1,0 +1,187 @@
+2017-08-09 15:10:29,997,Starting MessageServerApplication on 2013-20141021RF with PID 297644 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:10:29,999,The following profiles are active: test
+2017-08-09 15:10:30,063,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4738a206: startup date [Wed Aug 09 15:10:30 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:10:31,186,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:10:31,990,spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2017-08-09 15:10:32,038,Registering beans for JMX exposure on startup
+2017-08-09 15:10:32,082,Started MessageServerApplication in 3.208 seconds (JVM running for 4.002)
+2017-08-09 15:10:32,083,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@4738a206: startup date [Wed Aug 09 15:10:30 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:10:32,085,Unregistering JMX-exposed beans on shutdown
+2017-08-09 15:12:13,618,Starting MessageServerApplication on 2013-20141021RF with PID 305684 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:12:13,620,The following profiles are active: test
+2017-08-09 15:12:13,660,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:12:13 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:12:13,995,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:12:14,323,spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2017-08-09 15:12:14,349,Registering beans for JMX exposure on startup
+2017-08-09 15:12:14,359,Started MessageServerApplication in 1.008 seconds (JVM running for 2.08)
+2017-08-09 15:12:14,359,end------------------
+2017-08-09 15:12:14,360,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:12:13 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:12:14,361,Unregistering JMX-exposed beans on shutdown
+2017-08-09 15:14:48,819,Starting MessageServerApplication on 2013-20141021RF with PID 305144 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:14:48,820,The following profiles are active: test
+2017-08-09 15:14:48,860,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:14:48 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:14:49,275,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:15:10,881,spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2017-08-09 15:15:10,908,Registering beans for JMX exposure on startup
+2017-08-09 15:15:10,916,Started MessageServerApplication in 22.537 seconds (JVM running for 22.915)
+2017-08-09 15:15:10,916,end------------------
+2017-08-09 15:15:10,917,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:14:48 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:15:10,918,Unregistering JMX-exposed beans on shutdown
+2017-08-09 15:27:04,749,Starting MessageServerApplication on 2013-20141021RF with PID 303964 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:27:04,750,The following profiles are active: test
+2017-08-09 15:27:04,783,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:27:04 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:27:05,245,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:27:53,121,spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2017-08-09 15:27:53,147,Registering beans for JMX exposure on startup
+2017-08-09 15:27:53,156,Started MessageServerApplication in 48.661 seconds (JVM running for 48.958)
+2017-08-09 15:27:53,156,end------------------
+2017-08-09 15:27:53,157,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:27:04 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:27:53,158,Unregistering JMX-exposed beans on shutdown
+2017-08-09 15:28:00,190,Starting MessageServerApplication on 2013-20141021RF with PID 307616 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:28:00,191,The following profiles are active: test
+2017-08-09 15:28:00,226,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:28:00 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:28:00,601,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:28:10,594,spring-boot-starter-redis is deprecated as of Spring Boot 1.4, please migrate to spring-boot-starter-data-redis
+2017-08-09 15:28:10,620,Registering beans for JMX exposure on startup
+2017-08-09 15:28:10,629,Started MessageServerApplication in 10.711 seconds (JVM running for 11.045)
+2017-08-09 15:28:10,629,end------------------
+2017-08-09 15:28:10,630,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@6392827e: startup date [Wed Aug 09 15:28:00 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:28:10,630,Unregistering JMX-exposed beans on shutdown
+2017-08-09 15:33:54,581,Starting MessageServerApplication on 2013-20141021RF with PID 305308 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:33:54,581,The following profiles are active: test
+2017-08-09 15:33:54,632,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@70e9c95d: startup date [Wed Aug 09 15:33:54 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:33:55,280,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:34:12,042,Registering beans for JMX exposure on startup
+2017-08-09 15:38:32,428,Starting MessageServerApplication on 2013-20141021RF with PID 306228 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:38:32,465,The following profiles are active: test
+2017-08-09 15:38:32,521,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@70e9c95d: startup date [Wed Aug 09 15:38:32 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:38:32,741,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:39:52,869,Starting MessageServerApplication on 2013-20141021RF with PID 304788 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 15:39:52,870,The following profiles are active: test
+2017-08-09 15:39:52,900,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@70e9c95d: startup date [Wed Aug 09 15:39:52 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 15:39:53,161,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 15:39:53,297,Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisMessageConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+2017-08-09 15:39:53,302,
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-08-09 15:39:53,336,Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisMessageConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1264)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:737)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:370)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
+	at com.xukaisheng.redis.message.MessageServerApplication.main(MessageServerApplication.java:21)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:236)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:172)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:831)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1086)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:585)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:366)
+	... 16 common frames omitted
+2017-08-09 16:00:55,645,Starting MessageServerApplication on 2013-20141021RF with PID 306688 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 16:00:55,658,The following profiles are active: test
+2017-08-09 16:00:55,710,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@70e9c95d: startup date [Wed Aug 09 16:00:55 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 16:00:55,933,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 16:00:56,093,Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisMessageConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+2017-08-09 16:00:56,098,
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-08-09 16:00:56,107,Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisMessageConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1264)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:737)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:370)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:314)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1162)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1151)
+	at com.xukaisheng.redis.message.MessageServerApplication.main(MessageServerApplication.java:21)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.redis.host' in value "${spring.redis.host}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:174)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:126)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:236)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer$2.resolveStringValue(PropertySourcesPlaceholderConfigurer.java:172)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:831)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1086)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:585)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:366)
+	... 16 common frames omitted
+2017-08-09 16:47:58,452,Starting MessageServerApplication on 2013-20141021RF with PID 307516 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 16:47:58,471,The following profiles are active: test
+2017-08-09 16:47:58,655,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@3012646b: startup date [Wed Aug 09 16:47:58 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 16:48:00,394,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 16:48:06,596,192.168.4.88::::::
+2017-08-09 16:48:07,589,Registering beans for JMX exposure on startup
+2017-08-09 16:48:07,687,Started MessageServerApplication in 12.222 seconds (JVM running for 19.329)
+2017-08-09 16:48:07,687,end------------------
+2017-08-09 16:48:07,688,Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@3012646b: startup date [Wed Aug 09 16:47:58 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 16:48:07,690,Unregistering JMX-exposed beans on shutdown
+2017-08-09 17:23:48,935,Starting MessageClientApplication on 2013-20141021RF with PID 310548 (E:\Intelij\workspace\XksRedisMessage\MessageClient\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 17:23:48,953,The following profiles are active: test
+2017-08-09 17:23:48,978,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@783a467b: startup date [Wed Aug 09 17:23:48 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:23:49,230,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:23:49,675,Registering beans for JMX exposure on startup
+2017-08-09 17:23:49,678,Starting beans in phase 2147483647
+2017-08-09 17:23:49,703,Started MessageClientApplication in 1.062 seconds (JVM running for 1.682)
+2017-08-09 17:24:18,503,Starting MessageServerApplication on 2013-20141021RF with PID 293320 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 17:24:18,507,The following profiles are active: test
+2017-08-09 17:24:18,549,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@38467116: startup date [Wed Aug 09 17:24:18 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:24:18,916,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:24:19,338,Registering beans for JMX exposure on startup
+2017-08-09 17:24:19,341,Starting beans in phase 2147483647
+2017-08-09 17:24:19,366,Started MessageServerApplication in 1.141 seconds (JVM running for 1.494)
+2017-08-09 17:24:39,936,receiver server message <广播方式 >
+2017-08-09 17:36:23,151,Starting MessageClientApplication on 2013-20141021RF with PID 305996 (E:\Intelij\workspace\XksRedisMessage\MessageClient\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 17:36:23,153,The following profiles are active: test
+2017-08-09 17:36:23,176,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@797badd3: startup date [Wed Aug 09 17:36:23 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:36:23,388,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:36:23,823,Registering beans for JMX exposure on startup
+2017-08-09 17:36:23,828,Starting beans in phase 2147483647
+2017-08-09 17:36:23,848,Started MessageClientApplication in 0.982 seconds (JVM running for 1.246)
+2017-08-09 17:36:34,655,Starting MessageServerApplication on 2013-20141021RF with PID 311392 (E:\Intelij\workspace\XksRedisMessage\MessageServer\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 17:36:34,658,The following profiles are active: test
+2017-08-09 17:36:34,692,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2ddc9a9f: startup date [Wed Aug 09 17:36:34 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:36:34,972,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:36:35,419,Registering beans for JMX exposure on startup
+2017-08-09 17:36:35,424,Starting beans in phase 2147483647
+2017-08-09 17:36:35,450,Started MessageServerApplication in 1.107 seconds (JVM running for 1.453)
+2017-08-09 17:36:59,283,receiver client message <广播方式 >
+2017-08-09 17:49:09,087,Starting MessageClientApplication on 2013-20141021RF with PID 309904 (E:\Intelij\workspace\XksRedisMessage\MessageClient\target\classes started by Administrator in E:\Intelij\workspace\XksRedisMessage)
+2017-08-09 17:49:09,091,The following profiles are active: test
+2017-08-09 17:49:09,128,Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@783a467b: startup date [Wed Aug 09 17:49:09 GMT+08:00 2017]; root of context hierarchy
+2017-08-09 17:49:09,415,Multiple Spring Data modules found, entering strict repository configuration mode!
+2017-08-09 17:49:09,818,Registering beans for JMX exposure on startup
+2017-08-09 17:49:09,822,Starting beans in phase 2147483647
+2017-08-09 17:49:09,846,Started MessageClientApplication in 1.138 seconds (JVM running for 1.547)
+2017-08-09 17:49:33,872,receiver client message <广播方式 >
+2017-08-09 17:50:13,852,receiver client message <广播方式 >
